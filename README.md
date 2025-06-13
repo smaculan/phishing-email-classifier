@@ -9,7 +9,7 @@ This project classifies emails as phishing or legitimate using NLP and Logistic 
 ## Installation
 1. **Clone the Repository**: Extract this ZIP file.
 2. **Install Dependencies**: Run `pip install -r requirements.txt`.
-3. **Download NLTK Data**: The script downloads required NLTK data on first run.
+3. **Download NLTK Data**: The script downloads the required NLTK data on the first run.
 
 ## Usage
 ### Training Mode
